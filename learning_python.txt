@@ -1,0 +1,4 @@
+In Python you can read from a file.
+In Python you can write to a file.
+In Python you can intialize variables.
+In Python you don't need to declare a variable.
